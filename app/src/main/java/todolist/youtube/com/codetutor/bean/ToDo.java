@@ -13,14 +13,14 @@ public class ToDo {
     private String toDo;
     private String place;
 
-    public ToDo(){
+    public ToDo() {
         super();
     }
 
-    public ToDo(long id, String toDo, String place){
-        this.id=id;
-        this.toDo=toDo;
-        this.place=place;
+    public ToDo(long id, String toDo, String place) {
+        this.id = id;
+        this.toDo = toDo;
+        this.place = place;
     }
 
 
